@@ -19,7 +19,3 @@ For oh-my-zsh, clone this repo into ~/.oh-my-zsh/custom/plugins and add plugin a
 ```zsh
 plugins+=(zaw zaw-src-directory)
 ```
-
-## Licence
-
-DTFPL
